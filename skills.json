@@ -1,0 +1,66 @@
+[
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "ReactJS",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    },
+    {
+        "name": "NodeJS",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "jQuery",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+    },
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    },
+    {
+        "name": "Blynk IoT",
+        "icon": "https://img.icons8.com/?size=48&id=ZHKWo8oWbphe&format=png&color=000000"
+    },
+    {
+        "name": "ArduinoIDE",
+        "icon": "https://img.icons8.com/color/48/000000/arduino.png"
+    },
+    {
+        "name": "IoT",
+        "icon": "https://img.icons8.com/?size=48&id=L8VNPpJuJ2qE&format=png&color=000000"
+    },
+    {
+        "name": "EmbeddedC",
+        "icon": "https://img.icons8.com/?size=48&id=5PQTzvFmXEt0&format=png&color=000000"
+    },
+    {
+        "name": "AutoDesk",
+        "icon": "https://img.icons8.com/?size=48&id=v3zGNNT2UNSU&format=png&color=ffffff"
+    }    
+]
