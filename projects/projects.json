@@ -2,7 +2,7 @@
   {
     "name": "Portfolio",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "Portfolio",
+    "image": "portfolio",
     "links": {
       "view": "https://karthik-700.github.io/Portfolio/",
       "code": "https://github.com/Karthik-700/Portfolio.git"
@@ -11,7 +11,7 @@
   {
     "name": "Shop Lane",
     "desc": "A responsive e-commerce website for clothing and accessories, featuring a user-friendly interface and showcasing skills in front-end development.",
-    "image": "ShopLane",
+    "image": "shoplane",
     "links": {
       "view": "https://karthik-700.github.io/E-commerce/",
       "code": "https://github.com/Karthik-700/E-commerce.git"
@@ -30,7 +30,7 @@
   {
     "name": "Tic Tac Toe",
     "desc": "A simple and interactive web-based Tic-Tac-Toe game, demonstrating fundamental front-end development skills.",
-    "image": "X-O Game",
+    "image": "x-ogame",
     "category": "basicweb",
     "links": {
       "view": "https://karthik-700.github.io/Tic-Tac-Toe/",
@@ -40,7 +40,7 @@
   {
     "name": "Notes",
     "desc": "A simple and intuitive web-based note-taking application built with front-end technologies, allowing users to create and manage notes.",
-    "image": "Notes",
+    "image": "notes",
     "category": "basicweb",
     "links": {
       "view": "https://karthik-700.github.io/NotesProject/",
@@ -50,7 +50,7 @@
   {
     "name": "New Year Countdown",
     "desc": "A dynamic web-based countdown timer for the New Year of 2026, built using front-end technologies to visually track the remaining time.",
-    "image": "New Year",
+    "image": "newyear",
     
     "links": {
       "view": "https://karthik-700.github.io/New-Year-Countdown/",
