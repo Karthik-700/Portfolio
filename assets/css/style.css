@@ -698,6 +698,7 @@ header .navbar ul li a:hover {
   background: #ffd900;
 }
 .work .box-container .box .content .tag h3 {
+  color: #000;
   font-size: 2rem;
 }
 .work .box-container .box:hover .content {
@@ -710,6 +711,7 @@ header .navbar ul li a:hover {
   justify-content: center;
 }
 .work .desc p {
+  color: #000;
   font-size: 1.5rem;
 }
 .work .desc .btns {
@@ -736,6 +738,7 @@ header .navbar ul li a:hover {
   justify-content: center;
 }
 .work .viewall .btn {
+  background-color: #797979;
   position: relative;
   line-height: 0;
   padding: 1.6rem 3rem;
